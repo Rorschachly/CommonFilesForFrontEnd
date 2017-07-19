@@ -1,0 +1,5 @@
+var log = console.log.bind(console);
+var img = new Image();
+log(img);
+
+It helps to show the log in the console, which is very convenient. 
